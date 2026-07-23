@@ -1,0 +1,21 @@
+.cardLists
+{
+    display: flex;
+    justify-content:space-between;
+    align-items:center;
+    flex-wrap: wrap;
+    padding: 10px;
+    gap: 10px;
+
+}
+img
+{
+    width: 400px;
+    height: 200px;
+}
+.card
+{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
